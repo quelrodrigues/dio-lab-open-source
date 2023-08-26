@@ -3,7 +3,7 @@
 ---
 
 # Raquel Rodrigues
-Estudante iniciante em Tecnologia, curso Análise e Desenvolvimento de Sistemas.
+Estudante iniciante em Tecnologia, curso Análise e Desenvolvimento de Sistemas 1º sememtre.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/quelrodrigues/)
